@@ -9,13 +9,13 @@ let handler = async (m, { conn }) => {
     let uptime = clockString(_uptime)
 
     let str = `
-┌─〔 Info AlyaaXzy Botz 〕
-│Name: AlyaaXzy
-│Main Owner: AlyaaXzy
+┌─〔 Info Kadrian Botz 〕
+│Name: Kadrian
+│Main Owner: Kadrian
 │Operated Since: 19 September 2021
 │Language Used: Nodejs (JS)
 │Server: Heroku
-│SC: -
+│SC: -follow tiktok gua dulu tiktok.com/Kadrian_1 kirim bukti ny kalau dh follow
 └────
 
 ┌─〔 Status 〕
